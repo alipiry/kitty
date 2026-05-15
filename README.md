@@ -1,6 +1,6 @@
 # kitty
 
-My personal [kitty](https://sw.kovidgoyal.in/kitty/) terminal emulator config.
+My personal [kitty](https://sw.kovidgoyal.net/kitty) terminal emulator config.
 
 ## Highlights
 
@@ -25,63 +25,63 @@ Then restart kitty.
 
 ### Clipboard
 
-| Shortcut | Action |
-| --- | --- |
+| Shortcut    | Action               |
+| ----------- | -------------------- |
 | `mod` + `v` | Paste from clipboard |
 | `mod` + `s` | Paste from selection |
 
 ### Scrolling
 
-| Shortcut | Action |
-| --- | --- |
-| `mod` + `↑` | Scroll line up |
+| Shortcut    | Action           |
+| ----------- | ---------------- |
+| `mod` + `↑` | Scroll line up   |
 | `mod` + `↓` | Scroll line down |
 
 ### Windows
 
-| Shortcut | Action |
-| --- | --- |
-| `mod` + `enter` | New window |
-| `mod` + `shift` + `enter` | New window with cwd |
-| `mod` + `t` | New OS window |
-| `mod` + `w` | Close window |
-| `mod` + `shift` + `→` / `↑` | Next window |
-| `mod` + `shift` + `←` / `↓` | Previous window |
-| `mod` + `k` | Next window |
-| `mod` + `j` | Previous window |
-| `mod` + `f` | Move window forward |
-| `mod` + `r` | Start resizing window |
-| `mod` + `1`…`0` | Jump to window 1–10 |
+| Shortcut                    | Action                |
+| --------------------------- | --------------------- |
+| `mod` + `enter`             | New window            |
+| `mod` + `shift` + `enter`   | New window with cwd   |
+| `mod` + `t`                 | New OS window         |
+| `mod` + `w`                 | Close window          |
+| `mod` + `shift` + `→` / `↑` | Next window           |
+| `mod` + `shift` + `←` / `↓` | Previous window       |
+| `mod` + `k`                 | Next window           |
+| `mod` + `j`                 | Previous window       |
+| `mod` + `f`                 | Move window forward   |
+| `mod` + `r`                 | Start resizing window |
+| `mod` + `1`…`0`             | Jump to window 1–10   |
 
 ### Layouts
 
-| Shortcut | Action |
-| --- | --- |
+| Shortcut    | Action      |
+| ----------- | ----------- |
 | `mod` + `l` | Next layout |
 
 ### Tabs
 
-| Shortcut | Action |
-| --- | --- |
-| `mod` + `n` | New tab |
-| `mod` + `→` | Next tab |
-| `mod` + `←` | Previous tab |
-| `mod` + `.` | Move tab forward |
-| `mod` + `shift` + `,` | Set tab title |
+| Shortcut              | Action           |
+| --------------------- | ---------------- |
+| `mod` + `n`           | New tab          |
+| `mod` + `→`           | Next tab         |
+| `mod` + `←`           | Previous tab     |
+| `mod` + `.`           | Move tab forward |
+| `mod` + `shift` + `,` | Set tab title    |
 
 ### Font size
 
-| Shortcut | Action |
-| --- | --- |
-| `mod` + `=` | Increase font size |
-| `mod` + `-` | Decrease font size |
-| `mod` + `backspace` | Reset font size |
+| Shortcut            | Action             |
+| ------------------- | ------------------ |
+| `mod` + `=`         | Increase font size |
+| `mod` + `-`         | Decrease font size |
+| `mod` + `backspace` | Reset font size    |
 
 ### Miscellaneous
 
-| Shortcut | Action |
-| --- | --- |
+| Shortcut      | Action            |
+| ------------- | ----------------- |
 | `mod` + `f11` | Toggle fullscreen |
-| `mod` + `f10` | Toggle maximized |
-| `mod` + `u` | Unicode input |
-| `mod` + `f2` | Edit config file |
+| `mod` + `f10` | Toggle maximized  |
+| `mod` + `u`   | Unicode input     |
+| `mod` + `f2`  | Edit config file  |
